@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+faiss-cpu
+motor
+pydantic
+python-dotenv
+aiofiles
+requests

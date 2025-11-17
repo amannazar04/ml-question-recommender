@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.next/
+npm-debug.log
+
+# Environment variables
+.env
+.env.local
+backend/app/faiss_index/index.faiss
+
+# OS files
+.DS_Store
+Thumbs.db

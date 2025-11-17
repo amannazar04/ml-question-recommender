@@ -1,0 +1,311 @@
+[
+  {
+    "id": "q001",
+    "title": "How do I reverse a linked list?",
+    "body": "I want to reverse a singly linked list in place using an iterative approach.",
+    "tags": ["linked-list", "data-structures"]
+  },
+  {
+    "id": "q002",
+    "title": "Reverse a linked list recursively",
+    "body": "How can I reverse a linked list using recursion? Need explanation and code.",
+    "tags": ["linked-list", "recursion"]
+  },
+  {
+    "id": "q003",
+    "title": "Detect cycle in a linked list",
+    "body": "What is the fastest way to determine whether a linked list contains a cycle?",
+    "tags": ["linked-list", "two-pointers"]
+  },
+  {
+    "id": "q004",
+    "title": "Merge two sorted linked lists",
+    "body": "Given two sorted linked lists, how do I merge them without creating new nodes?",
+    "tags": ["linked-list", "merge"]
+  },
+  {
+    "id": "q005",
+    "title": "Find middle element of linked list",
+    "body": "How can I find the middle node of a linked list in one pass?",
+    "tags": ["linked-list"]
+  },
+
+  {
+    "id": "q006",
+    "title": "Binary search algorithm explanation",
+    "body": "How does binary search work and why is it O(log n)?",
+    "tags": ["algorithms", "search"]
+  },
+  {
+    "id": "q007",
+    "title": "Implement binary search tree insert",
+    "body": "How do I insert a node into a BST? Should duplicates be allowed?",
+    "tags": ["tree", "bst"]
+  },
+  {
+    "id": "q008",
+    "title": "Level order traversal of binary tree",
+    "body": "What is level order traversal and how to implement it using a queue?",
+    "tags": ["tree", "bfs"]
+  },
+  {
+    "id": "q009",
+    "title": "Difference between DFS and BFS",
+    "body": "How are depth-first and breadth-first search different in behavior?",
+    "tags": ["graph", "dfs", "bfs"]
+  },
+  {
+    "id": "q010",
+    "title": "Detect cycle in graph using DFS",
+    "body": "How to check if an undirected graph contains a cycle using DFS?",
+    "tags": ["graph", "dfs"]
+  },
+
+  {
+    "id": "q011",
+    "title": "Implement quicksort",
+    "body": "Need help implementing quicksort and choosing good pivot strategies.",
+    "tags": ["sorting", "quicksort"]
+  },
+  {
+    "id": "q012",
+    "title": "Implement mergesort",
+    "body": "How does merge sort work and what makes it stable?",
+    "tags": ["sorting", "mergesort"]
+  },
+  {
+    "id": "q013",
+    "title": "Time complexity of sorting algorithms",
+    "body": "Can someone explain complexities of bubble, merge, quick, and heap sort?",
+    "tags": ["sorting", "complexity"]
+  },
+  {
+    "id": "q014",
+    "title": "Heap sort vs quicksort",
+    "body": "Which is better in practice: heap sort or quicksort?",
+    "tags": ["sorting", "heap"]
+  },
+  {
+    "id": "q015",
+    "title": "Top K elements using heap",
+    "body": "How to find the top K largest elements in an array using a min heap?",
+    "tags": ["heap", "priority-queue"]
+  },
+
+  {
+    "id": "q016",
+    "title": "Dynamic programming: Fibonacci optimized",
+    "body": "How to compute Fibonacci numbers efficiently using DP?",
+    "tags": ["dp", "fibonacci"]
+  },
+  {
+    "id": "q017",
+    "title": "Knapsack problem explanation",
+    "body": "What is the 0/1 knapsack problem and how is it solved?",
+    "tags": ["dp", "knapsack"]
+  },
+    {
+    "id": "q018",
+    "title": "Longest common subsequence",
+    "body": "How do I compute the LCS using dynamic programming?",
+    "tags": ["dp", "lcs"]
+  },
+  {
+    "id": "q019",
+    "title": "Edit distance algorithm",
+    "body": "What are optimal ways to compute the minimum edit distance between two strings?",
+    "tags": ["dp", "string"]
+  },
+  {
+    "id": "q020",
+    "title": "Subset sum problem",
+    "body": "Given a set, how can we check if any subset sums to a target value?",
+    "tags": ["dp", "subset-sum"]
+  },
+
+  {
+    "id": "q021",
+    "title": "What is a hash map?",
+    "body": "Can someone explain how hash maps work internally?",
+    "tags": ["hashmap", "data-structures"]
+  },
+  {
+    "id": "q022",
+    "title": "Collision handling in hash tables",
+    "body": "What are chaining and open addressing? Which is better?",
+    "tags": ["hashmap", "collision"]
+  },
+  {
+    "id": "q023",
+    "title": "Implement LRU cache",
+    "body": "Looking for an efficient implementation of LRU cache using DLL and hash map.",
+    "tags": ["cache", "lru"]
+  },
+  {
+    "id": "q024",
+    "title": "Time complexity of hash table operations",
+    "body": "Why is average time for insert and lookup O(1)?",
+    "tags": ["hashmap", "complexity"]
+  },
+  {
+    "id": "q025",
+    "title": "Difference between stack and queue",
+    "body": "How are stacks and queues different conceptually and in usage?",
+    "tags": ["stack", "queue"]
+  },
+
+  {
+    "id": "q026",
+    "title": "Two pointer technique examples",
+    "body": "What are common problems solved using the two-pointer pattern?",
+    "tags": ["arrays", "two-pointers"]
+  },
+  {
+    "id": "q027",
+    "title": "Sliding window maximum",
+    "body": "How to find the maximum value in each sliding window of size k?",
+    "tags": ["sliding-window", "deque"]
+  },
+  {
+    "id": "q028",
+    "title": "Find duplicates in array",
+    "body": "What is an optimal method to find duplicates in an array?",
+    "tags": ["arrays"]
+  },
+  {
+    "id": "q029",
+    "title": "Rotate array by k positions",
+    "body": "How can I rotate an array in-place by k steps?",
+    "tags": ["arrays", "rotation"]
+  },
+  {
+    "id": "q030",
+    "title": "Find missing number in array",
+    "body": "Given numbers 0..n, how do I find the missing one?",
+    "tags": ["arrays"]
+  },
+
+  {
+    "id": "q031",
+    "title": "What is a REST API?",
+    "body": "How do REST APIs work and what is statelessness?",
+    "tags": ["web", "api"]
+  },
+  {
+    "id": "q032",
+    "title": "Difference between POST and PUT",
+    "body": "When should I use POST and when should I use PUT?",
+    "tags": ["web", "api"]
+  },
+  {
+    "id": "q033",
+    "title": "What is CORS?",
+    "body": "Why do browsers block cross-site requests and how does CORS solve it?",
+    "tags": ["web"]
+  },
+  {
+    "id": "q034",
+    "title": "JWT authentication basics",
+    "body": "How does JSON Web Token authentication work?",
+    "tags": ["auth", "jwt"]
+  },
+  {
+    "id": "q035",
+    "title": "Rate limiting APIs",
+    "body": "How do I protect an API from being overloaded?",
+    "tags": ["web", "security"]
+  },
+
+  {
+    "id": "q036",
+    "title": "What is machine learning?",
+    "body": "How does machine learning differ from traditional programming?",
+    "tags": ["ml"]
+  },
+  {
+    "id": "q037",
+    "title": "Supervised vs unsupervised learning",
+    "body": "What is the difference between supervised and unsupervised learning?",
+    "tags": ["ml"]
+  },
+  {
+    "id": "q038",
+    "title": "Gradient descent intuition",
+    "body": "Can someone explain gradient descent with simple math?",
+    "tags": ["ml", "optimization"]
+  },
+  {
+    "id": "q039",
+    "title": "Overfitting vs underfitting",
+    "body": "Why do ML models overfit and how to prevent it?",
+    "tags": ["ml"]
+  },
+  {
+    "id": "q040",
+    "title": "Train/validation/test split",
+    "body": "How do I correctly split my dataset?",
+    "tags": ["ml"]
+  },
+
+  {
+    "id": "q041",
+    "title": "What is a neural network?",
+    "body": "Simple explanation of neurons, layers, and activations?",
+    "tags": ["nn", "deep-learning"]
+  },
+  {
+    "id": "q042",
+    "title": "Vanishing gradient problem",
+    "body": "Why do gradients vanish in deep networks?",
+    "tags": ["deep-learning"]
+  },
+  {
+    "id": "q043",
+    "title": "CNN vs RNN differences",
+    "body": "When should I use CNN or RNN?",
+    "tags": ["deep-learning"]
+  },
+  {
+    "id": "q044",
+    "title": "What is dropout in deep learning?",
+    "body": "Why does dropout prevent overfitting?",
+    "tags": ["nn"]
+  },
+  {
+    "id": "q045",
+    "title": "Activation functions comparison",
+    "body": "Difference between ReLU, sigmoid, tanh, and GELU?",
+    "tags": ["nn"]
+  },
+
+  {
+    "id": "q046",
+    "title": "Python list vs tuple",
+    "body": "When should I use a list and when a tuple?",
+    "tags": ["python"]
+  },
+  {
+    "id": "q047",
+    "title": "What is a Python decorator?",
+    "body": "How do decorators work under the hood?",
+    "tags": ["python"]
+  },
+  {
+    "id": "q048",
+    "title": "Generators vs iterators",
+    "body": "What are generators and when should I use them?",
+    "tags": ["python"]
+  },
+  {
+    "id": "q049",
+    "title": "Multithreading in Python",
+    "body": "How does the GIL limit Python threading?",
+    "tags": ["python", "threading"]
+  },
+  {
+    "id": "q050",
+    "title": "AsyncIO basics in Python",
+    "body": "How does Python asyncio achieve concurrency?",
+    "tags": ["python", "asyncio"]
+  }
+]
